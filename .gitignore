@@ -110,3 +110,10 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+/business-service/build/tmp/jar/MANIFEST.MF
+/web-baby/build/tmp/war/MANIFEST.MF
+.idea/.gitignore
+.idea/codeStyles/codeStyleConfig.xml
+.idea/compiler.xml
+.idea/jarRepositories.xml
+.idea/misc.xml
