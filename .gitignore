@@ -1,5 +1,7 @@
 # MINE
-.idea/
+.idea
+# file: ~/.gitignore_global
+.DS_Store
 
 # From https://github.com/github/gitignore/blob/master/Gradle.gitignore
 .gradle
